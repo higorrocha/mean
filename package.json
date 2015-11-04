@@ -1,0 +1,24 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Learning MEAN",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^0.8.8",
+    "express": "^4.13.3",
+    "express-load": "^1.1.15",
+    "method-override": "^2.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mean"
+  },
+  "author": "Higor Rocha, Igor Vieira",
+  "license": "ISC"
+}
